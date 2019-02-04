@@ -8,7 +8,7 @@
 [![Quality](https://img.shields.io/codeclimate/github/jaredhanson/passport-twitter.svg?label=quality)](https://codeclimate.com/github/jaredhanson/passport-twitter)
 [![Dependencies](https://img.shields.io/david/jaredhanson/passport-twitter.svg)](https://david-dm.org/jaredhanson/passport-twitter)
 
-# Struts2 Web Application Framework
+## Struts2 Web Application Framework
 
 1. Basic Of Struts2
 
